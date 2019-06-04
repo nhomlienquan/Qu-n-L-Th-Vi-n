@@ -1,0 +1,22 @@
+﻿  Main.cpp
+d:\project3\project3\date.h(9): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  d:\project3\project3\main.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+d:\project3\project3\main.cpp(83): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+d:\project3\project3\main.cpp(157): warning C4018: '<': signed/unsigned mismatch
+d:\project3\project3\main.cpp(166): warning C4018: '<': signed/unsigned mismatch
+d:\project3\project3\main.cpp(173): warning C4018: '<': signed/unsigned mismatch
+d:\project3\project3\main.cpp(351): warning C4018: '<': signed/unsigned mismatch
+d:\project3\project3\main.cpp(363): warning C4018: '<': signed/unsigned mismatch
+d:\project3\project3\main.cpp(417): warning C4018: '<': signed/unsigned mismatch
+d:\project3\project3\main.cpp(435): warning C4018: '<': signed/unsigned mismatch
+d:\project3\project3\main.cpp(445): warning C4018: '<': signed/unsigned mismatch
+d:\project3\project3\main.cpp(575): warning C4018: '<': signed/unsigned mismatch
+d:\project3\project3\main.cpp(592): warning C4018: '<': signed/unsigned mismatch
+d:\project3\project3\main.cpp(680): warning C4018: '<': signed/unsigned mismatch
+d:\project3\project3\main.cpp(720): warning C4018: '<': signed/unsigned mismatch
+d:\project3\project3\main.cpp(728): warning C4018: '<': signed/unsigned mismatch
+d:\project3\project3\main.cpp(740): warning C4018: '<': signed/unsigned mismatch
+d:\project3\project3\main.cpp(751): warning C4018: '<': signed/unsigned mismatch
+d:\project3\project3\main.cpp(798): warning C4018: '<': signed/unsigned mismatch
+d:\project3\project3\main.cpp(809): warning C4018: '<': signed/unsigned mismatch
+  Project3.vcxproj -> D:\Project3\Debug\Project3.exe
